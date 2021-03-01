@@ -16,4 +16,4 @@ You need a Thermometer to check your temperature and to determine if you or some
 <img src="images/ther.jpeg" alt="motaharu" width="200">
 # Ice 
 We have Ice packs because, you should keep them for accidents like. if you run into someone else and your head has a bump on it or your leg has a rash you can use it to cool down the bruise.
-<img src="images/ice.pjeg" alt="motaharu" width="200">
+<img src="images/ice.jpeg" alt="motaharu" width="200">
